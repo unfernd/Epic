@@ -1,5 +1,5 @@
 services:
-  epic1:
+  epic2:
     build: .
     shm_size: 2.6gb
     ports:
